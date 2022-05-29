@@ -1,0 +1,36 @@
+body{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 100%, rgba(121,9,28,1) 100%, rgba(13,26,52,1) 100%);
+  overflow-x: hidden;
+  background-size: cover;
+}
+
+.pic img{
+  display: block;
+  margin: 0px auto;
+  width: 60%;
+}
+
+.card{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 6%;
+  margin-left: 10%;
+  margin-bottom: -26%;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+.mb-3{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  margin-top: 13%;
+  margin-left: 33%;
+  margin-right: 10%;
+}
+
+.btn{
+  margin-left: 90%;
+}

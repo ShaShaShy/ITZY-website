@@ -1,0 +1,50 @@
+body{
+	background: linear-gradient(90deg, rgba(2,0,36,1) 100%, rgba(121,9,28,1) 100%, rgba(13,26,52,1) 100%);
+	overflow-x: hidden;
+  background-size: cover;
+	color: white;
+}
+
+.intro{
+	position: relative;
+	text-align: center;
+	margin-top: 30%;
+}
+
+.frontp img{
+	display: block;
+	margin: 0 auto;
+	margin-top: 5%;
+	width: 50%;
+}
+
+.frontp2{
+	color: ghostwhite;
+	font-family: 'Poppins', sans-serif;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 3%;
+}
+
+p{
+	font-size: 18px;
+}
+
+iframe{
+	width: 70%;
+	height: 615px;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 5%;
+}
+
+footer{
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  position: absolute;
+  background: white;
+  height: 30px;
+  font-weight: bold;
+  color: black;
+}
